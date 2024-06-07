@@ -1,0 +1,2 @@
+insert -> Add -> commit -> push
+this method is used to insert the file local disk to repository
