@@ -1,0 +1,3 @@
+git add filename.txt
+gid commit -m "commit message"
+gid push origin main
